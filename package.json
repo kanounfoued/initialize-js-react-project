@@ -1,0 +1,8 @@
+{
+  "name": "initialize-js-react-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kanounfoued/initialize-js-react-project.git",
+  "author": "kanounfoued <=>",
+  "license": "MIT"
+}
